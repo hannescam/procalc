@@ -6,6 +6,6 @@
 - to clean: 
 - 		make clean
 - to install: 
-- 		make install
+- 		sudo make install
 - to uninstall: 
-- 		make uninstall
+- 		sudo make uninstall
