@@ -1,6 +1,6 @@
 # procalc
 - a simple app for linux that can calculate percentages.
-- if any person is interested in windows support please post it in the issues.
+- a windows exe file is in the releases and also a linux binary
 - to compile: 
 - 		make build
 - to clean: 
