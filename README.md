@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/hannes-cam/procalc/total)
+![GitHub all releases](https://img.shields.io/github/downloads/hannescam/procalc/total)
 # procalc
 - a simple app for linux that can calculate percentages.
 - a windows exe file is in the releases and also a linux binary
